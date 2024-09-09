@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow
+I am a new student who is majoring in computer science. My knowledge of computers and computer programming is beginner level. I am starting from scratch. I have a few weeks of experience in my Computer Science I class. I am learning Python. My goal is to become a data scientist. I'm learning Python in class and on Mimo on my phone when I don't have a desktop or labtop available. I'm also doing SQL on Sololearn on my phone as well. I'm taking an Intro to Data Science bootcamp through the University of Arkansas outside of my normal classes.
